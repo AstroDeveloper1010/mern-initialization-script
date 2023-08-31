@@ -1,6 +1,4 @@
-# 🖥️ MERN Project Initialization Script
-
-This Shell script initializes a work space for MERN project.
+# Shell script to initialise a MERN project.
 
 # Initialization
 echo "Enter the name of your project: "
