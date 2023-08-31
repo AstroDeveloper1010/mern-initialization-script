@@ -80,6 +80,3 @@ npx create-react-app
 cd ..
 
 echo "Project initialized successfully. Start building your MERN app"
-
-
-     
