@@ -1,3 +1,5 @@
+## 🖥️ MERN Initialization Shell Script
+
 ## 🚀 Getting Started
 
 **Clone this repository:**
